@@ -30,7 +30,7 @@ Package: io.github.a7medscrepo.pubgmobilenoblocking
 Version: 1.0
 Section: Tweaks
 Maintainer: A7med.sc <reposithree@gmail.com>
-Depends: firmware (=>11.0)
+Depends: firmware (>9.0)
 Architecture: iphoneos-arm
 Filename: ./debs/io.github.a7medscrepo.pubgmobilenoblocking_1.0~full.deb
 Size: 1833
