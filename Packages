@@ -39,18 +39,3 @@ Description: you need free iosMods account to use it
 Name: Pubg Slider NO Blocking
 Author: A7med.sc <reposithree@gmail.com>
 Depiction: https://a7medscrepo.github.io/repo/depictions/?p=pubgslider1
-
-Package: io.github.a7medscrepo.maxx
-Version: 1.0
-Section: Tweaks
-Maintainer: A7med.sc <reposithree@gmail.com>
-Depends: firmware (>9.0)
-Architecture: iphoneos-arm
-Filename: ./debs/io.github.a7medscrepo.maxx_0.13.0_iphoneos-arm.deb
-Size: 910444
-MD5sum: eac138955f450f32377ac05bf7175cdc
-Description: Pubg Hack Max full
-Name: Pubg Hack Max full
-Author: A7med.sc <reposithree@gmail.com>
-Depiction: https://a7medscrepo.github.io/repo/depictions/?p=pubgMax
-
